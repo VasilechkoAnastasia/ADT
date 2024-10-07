@@ -18,5 +18,4 @@ int main() {
 		cout << "\nstack is empty\n";
 	}
 	return 0;
-
 }
