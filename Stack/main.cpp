@@ -2,7 +2,8 @@
 #include "Stack.h"
 using namespace std;
 
-int main() {
+int main() 
+{
 	char str[] = ( "Hello" );
 	Stack obj1;
 	obj1.push(1);
